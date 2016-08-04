@@ -1,0 +1,11 @@
+ejercicios clase 0 (con reposiory de prueba ejercicios clase 0)
+
+-url: https://github.com/benjamin22016/ejercicios-clase-0.git
+
+- el comando 'cd\' en la consola permite cambiar el directorio al mas externo
+
+- el comando 'cd nuevo_directorio' en la consola permite cambiar el directorio a nuevo_directorio
+
+- el comando 'd:' permite cambiar de hard drive storegement
+
+bla bla bleh
